@@ -1,0 +1,67 @@
+[{
+    "Dia": "21 de mayo",
+    "Temp_Max":"36",
+    "Temp_Min":"16",
+    "Viento":"11"
+},
+{
+    "Dia": "22 de mayo",
+    "Temp_Max":"38",
+    "Temp_Min":"20",
+    "Viento":"12"
+},
+{
+    "Dia": "23 de mayo",
+    "Temp_Max":"38",
+    "Temp_Min":"18",
+    "Viento":"12"
+},
+{
+    "Dia": "24 de mayo",
+    "Temp_Max":"36",
+    "Temp_Min":"18",
+    "Viento":"9"
+},
+{
+    "Dia": "25 de mayo",
+    "Temp_Max":"37",
+    "Temp_Min":"19",
+    "Viento":"13"
+},
+{
+    "Dia": "26 de mayo",
+    "Temp_Max":"35",
+    "Temp_Min":"19",
+    "Viento":"20"
+},
+{
+    "Dia": "27 de mayo",
+    "Temp_Max":"36",
+    "Temp_Min":"19",
+    "Viento":"17"
+},
+{
+    "Dia": "28 de mayo",
+    "Temp_Max":"37",
+    "Temp_Min":"19",
+    "Viento":"14"
+},
+{
+    "Dia": "29 de mayo",
+    "Temp_Max":"37",
+    "Temp_Min":"20",
+    "Viento":"12"
+},
+{
+    "Dia": "30 de mayo",
+    "Temp_Max":"37",
+    "Temp_Min":"20",
+    "Viento":"14"
+},
+{
+    "Dia": "31 de mayo",
+    "Temp_Max":"37",
+    "Temp_Min":"20",
+    "Viento":"18"
+}
+]
